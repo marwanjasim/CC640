@@ -1,2 +1,2 @@
-AWS OpsWorks Win!
+Hello World!
 <?php php_info(); ?>
